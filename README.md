@@ -1,12 +1,12 @@
-
 ```md
-```txt
-initializing profile...
+```ini
+[user]
+name = nvdlove
+focus = systems
+status = active
 
-user ............ nvdlove
-focus ........... systems
-status .......... active
+[core]
+stack = C# | automation
 
-runtime: C# | automation
-
-process: observing
+[mode]
+observing = true
