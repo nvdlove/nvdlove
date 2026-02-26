@@ -1,7 +1,7 @@
-## .
+> user: nvdlove
+> focus: systems
+> status: active
 
-nvd
+C# | automation
 
-C# • Automation • Systems
-
-> silent execution.
+> observing.
