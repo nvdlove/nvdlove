@@ -2,6 +2,6 @@
 
 nvd
 
-C# | Automation | Systems
+C# • Automation • Systems
 
-> observing.
+> silent execution.
