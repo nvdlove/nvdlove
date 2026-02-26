@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there 👋  
+I'm nvd.
 
-<!--
-**nvdlove/nvdlove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I build tools, automation projects, and game-related utilities.  
+🎮 Currently working on projects around Brawlhalla.  
+⚙️ I like clean console apps and efficient systems.  
+📚 Always learning and improving every week.  
+🚀 Building > talking.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech I Use
+- C#
+- .NET
+- OpenCV
+- Git
+- Visual Studio
+
+---
+
+### 🔥 Current Focus
+- Improving automation logic
+- Making projects cleaner + more optimized
+- Learning better structure & error handling
+
+---
+
+> Consistency beats motivation.
