@@ -1,6 +1,5 @@
 
 <p align="center">
-  <a href="https://guns.lol/nvd">
     <img src="your-gif.gif" width="500">
   </a>
 </p>
