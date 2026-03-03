@@ -1,4 +1,7 @@
-```md
+<p align="center">
+  <img src="nvd.gif" width="500">
+</p>
+
 ```ini
 [user]
 name = nvdlove
