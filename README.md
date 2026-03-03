@@ -1,7 +1,5 @@
-
 <p align="center">
-    <img src="your-gif.gif" width="500">
-  </a>
+  <img src="your-gif.gif" width="500">
 </p>
 
 ```ini
