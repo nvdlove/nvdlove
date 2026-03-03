@@ -1,6 +1,7 @@
-
 <p align="center">
-  <img src="nvd.gif" width="500">
+  <a href="https://guns.lol/nvd">
+    <img src="your-gif.gif" width="500">
+  </a>
 </p>
 
 ```ini
