@@ -13,7 +13,8 @@ focus = systems
 status = active
 
 [core]
-stack = C# | automation
+stack = C# | Rust | Python | Automation
+web   = HTML | CSS
 
 [mode]
 observing = true
