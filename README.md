@@ -8,13 +8,15 @@
 
 ```ini
 [user]
-name = nvdlove
-focus = systems
-status = active
+name = "nvdlove"
+alias = "phantom"
+focus = "systems architecture & automation"
+status = "active"
 
 [core]
-stack = C# | Rust | Python | Automation
-web   = HTML | CSS
+languages = [ "C#", "C++", "Rust", "Node.js", "Python", "Lua" ]
+specialties = [ "backend-automation", "high-performance-systems", "api-architecture", "reverse-engineering" ]
 
-[mode]
+[infrastructure]
+endpoint = "armed"
 observing = true
