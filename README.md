@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://nvd.lol/">
+  <a href="https://guns.lol/nvd">
     <img src="nvd.gif" width="500">
   </a>
 </p>
